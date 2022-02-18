@@ -1,0 +1,17 @@
+{
+  "Create component React": {
+    "prefix": "rf",
+    "body": [
+      "import React from \"react\";",
+      "",
+      "const $1 = () => {",
+      "  return (",
+      "    <div>hello<div>",
+      "  )",
+      "};",
+      "",
+      "export { $1 }"
+    ],
+    "description": "Create component React"
+  }
+}
